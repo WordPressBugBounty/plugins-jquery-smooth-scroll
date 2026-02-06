@@ -1,3 +1,5 @@
-<?php 
-	// Sometimes index files do not works.
-?>
+<?php
+// Silence is golden.
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
